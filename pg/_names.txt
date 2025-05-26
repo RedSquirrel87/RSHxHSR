@@ -1,0 +1,26 @@
+# In this file you can provide the compatibility table between the character names used on game8.co
+# (https://game8.co/games/Honkai-Star-Rail/archives/404256), which are the default names acquired and
+# displayed by the program, and the corresponding names used in the Google Sheet file
+# (https://docs.google.com/spreadsheets/d/1SQK2xihURxiA2PTp0lAiRYXlphnm-EFa3CoKaUO7UOc/view?gid=1312600809)
+# for prydwen.gg. This way, the characters' builds data taken from game8 will be integrated with the
+# corresponding information of prydwen.gg to have a more complete overview in the program.
+#
+# Notes:
+# 1) Obviously, please write below only the names that are different between those used by game8 and in the
+# Google Sheet file for prydwen.gg; identical ones will be automatically recognized by the program, so
+# you don't need to enter them here.
+# 2) Please remember that to make the program recognize any change in this file you need to force a database
+# update using the appropriate function you can find in the "File" menu of the program.
+#
+# The syntax is as follows:
+# [Character's name used on game8.co]->[Character's name used in the Google Sheet file for prydwen.gg]
+#
+March 7th (Imaginary)->March 7th - The Hunt - CRIT Build
+March 7th (Imaginary)->March 7th - The Hunt - Break Build
+Imbibitor Lunae->Dan Heng - Imbibitor Lunae
+Topaz->Topaz & Numby
+Fugue->Tingyun - Fugue
+Trailblazer->Trailblazer - Destruction
+Trailblazer (Imaginary)->Trailblazer - Harmony
+Trailblazer (Fire)->Trailblazer - Preservation
+Trailblazer (Ice)->Trailblazer - Remembrance
